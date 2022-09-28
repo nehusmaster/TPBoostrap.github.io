@@ -16,6 +16,8 @@ h6{
 
 .image-container{
     /*background: #000 url(/multimedia/palacioaguas.PNG);*/
+    /*Incorrecto: multimedia/ba1.jpg 
+      correcto: ../multimedia/ba1.jpg */
     background-image: url(../multimedia/ba1.jpg);
     color: #fff;
     width: 100%;
